@@ -1,0 +1,15 @@
+<window class="#32770" nID="-2" ID="ID_TEMP_DLG_OR_PROPPAGE_0" text="Low Fare Shopping Tool" enabled="true">
+	<window class="#32770" nID="-2" ID="ID_TEMP_DLG_OR_PROPPAGE_2" text="Basic" enabled="true">
+		<window class="ComboBox" nID="3662" ID="IDC_TRIPPLAN_BASIC_DATE" text="LFS_DEP_DATE" enabled="true" />
+		<window class="ComboBox" nID="3664" ID="IDC_TRIPPLAN_BASIC_ORIG" custom_window="true">
+		  <CODE>LFS_DEP_CITY</CODE> 
+		  <PROGID>LocalData.TravelPort.1</PROGID> 
+		</window>
+		<window class="ComboBox" nID="4411" ID="IDC_TRIPPLAN_BASIC_DEST" custom_window="true">
+		  <CODE>LFS_ARR_CITY</CODE> 
+		  <PROGID>LocalData.TravelPort.1</PROGID> 
+		</window>
+		<window class="Edit" nID="3669" ID="IDC_TRIPPLAN_BASIC_TIME" text="LFS_DEP_TIME" enabled="true" /> 
+		<window class="Edit" nID="4819" ID="IDC_TRIPPLAN_BASIC_EARLIEST" text="LFS_EARLIEST_TIME" enabled="true" /> 
+	</window>
+</window>

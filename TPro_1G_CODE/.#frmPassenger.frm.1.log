@@ -1,0 +1,105 @@
+Line 24: Class ARGradientControl.ARGradient of control ARGradient1 was not a loaded control class.
+Line 53: Class MyFramePanel.MyFrame of control topFrame was not a loaded control class.
+Line 96: Class MSFlexGridLib.MSFlexGrid of control msFlexPassenger was not a loaded control class.
+Line 119: Class MSComCtl2.DTPicker of control dtpTktDate was not a loaded control class.
+Line 156: Class MSForms.ComboBox of control cmbEntry was not a loaded control class.
+Line 181: Class vbskpro.Skinner of control Skinner1 was not a loaded control class.
+Line 196: Class MSComCtl2.DTPicker of control dtpEntry was not a loaded control class.
+Line 222: Class MyCommandButton.MyButton of control cmdFinish was not a loaded control class.
+Line 251: Class MyCommandButton.MyButton of control cmdCancel was not a loaded control class.
+Line 29: The property name _ExtentX in ARGradient1 is invalid.
+Line 30: The property name _ExtentY in ARGradient1 is invalid.
+Line 31: The property name Color in ARGradient1 is invalid.
+Line 32: The property name FinColor in ARGradient1 is invalid.
+Line 33: The property name Caption in ARGradient1 is invalid.
+Line 35: The property name GradientSteps in ARGradient1 is invalid.
+Line 58: The property name _ExtentX in topFrame is invalid.
+Line 59: The property name _ExtentY in topFrame is invalid.
+Line 71: The property name MaskColor in topFrame is invalid.
+Line 72: The property name BackgroundMaskColor in topFrame is invalid.
+Line 73: The property name BackgroundAlignment in topFrame is invalid.
+Line 74: The property name Caption in topFrame is invalid.
+Line 75: The property name CornerTopLeft in topFrame is invalid.
+Line 76: The property name CornerTopRight in topFrame is invalid.
+Line 77: The property name CornerBottomLeft in topFrame is invalid.
+Line 78: The property name CornerBottomRight in topFrame is invalid.
+Line 79: The property name HeaderGradientAlign in topFrame is invalid.
+Line 80: The property name HeaderGradientSizeH in topFrame is invalid.
+Line 81: The property name HeaderColorTopLeft in topFrame is invalid.
+Line 82: The property name HeaderColorTopRight in topFrame is invalid.
+Line 83: The property name HeaderColorBottomLeft in topFrame is invalid.
+Line 84: The property name HeaderColorBottomRight in topFrame is invalid.
+Line 85: The property name HeaderShow in topFrame is invalid.
+Line 86: The property name PictureOffsetX in topFrame is invalid.
+Line 102: The property name _ExtentX in msFlexPassenger is invalid.
+Line 103: The property name _ExtentY in msFlexPassenger is invalid.
+Line 104: The property name _Version in msFlexPassenger is invalid.
+Line 105: The property name Cols in msFlexPassenger is invalid.
+Line 106: The property name FixedCols in msFlexPassenger is invalid.
+Line 107: The property name RowHeightMin in msFlexPassenger is invalid.
+Line 109: The property name BackColorFixed in msFlexPassenger is invalid.
+Line 110: The property name ForeColorFixed in msFlexPassenger is invalid.
+Line 111: The property name BackColorSel in msFlexPassenger is invalid.
+Line 112: The property name BackColorBkg in msFlexPassenger is invalid.
+Line 113: The property name HighLight in msFlexPassenger is invalid.
+Line 114: The property name AllowUserResizing in msFlexPassenger is invalid.
+Line 125: The property name _ExtentX in dtpTktDate is invalid.
+Line 126: The property name _ExtentY in dtpTktDate is invalid.
+Line 127: The property name _Version in dtpTktDate is invalid.
+Line 128: The property name CalendarTitleBackColor in dtpTktDate is invalid.
+Line 129: The property name CustomFormat in dtpTktDate is invalid.
+Line 130: The property name DateIsNull in dtpTktDate is invalid.
+Line 131: The property name Format in dtpTktDate is invalid.
+Line 132: The property name CurrentDate in dtpTktDate is invalid.
+Line 162: The property name VariousPropertyBits in cmbEntry is invalid.
+Line 163: The property name DisplayStyle in cmbEntry is invalid.
+Line 164: The property name Size in cmbEntry is invalid.
+Line 165: The property name MatchEntry in cmbEntry is invalid.
+Line 166: The property name ShowDropButtonWhen in cmbEntry is invalid.
+Line 167: The property name FontHeight in cmbEntry is invalid.
+Line 168: The property name FontCharSet in cmbEntry is invalid.
+Line 169: The property name FontPitchAndFamily in cmbEntry is invalid.
+Line 184: The property name _ExtentX in Skinner1 is invalid.
+Line 185: The property name _ExtentY in Skinner1 is invalid.
+Line 186: The property name CloseButton in Skinner1 is invalid.
+Line 187: The property name MaxButton in Skinner1 is invalid.
+Line 188: The property name MinButton in Skinner1 is invalid.
+Line 189: The property name OldForeColor in Skinner1 is invalid.
+Line 190: The property name ChangeSkinButton in Skinner1 is invalid.
+Line 191: The property name SysDisableSkinCaption in Skinner1 is invalid.
+Line 192: The property name LcK1 in Skinner1 is invalid.
+Line 193: The property name LcK2 in Skinner1 is invalid.
+Line 194: The property name AmbientB in Skinner1 is invalid.
+Line 203: The property name _ExtentX in dtpEntry is invalid.
+Line 204: The property name _ExtentY in dtpEntry is invalid.
+Line 205: The property name _Version in dtpEntry is invalid.
+Line 215: The property name CalendarTitleBackColor in dtpEntry is invalid.
+Line 216: The property name CustomFormat in dtpEntry is invalid.
+Line 217: The property name Format in dtpEntry is invalid.
+Line 218: The property name CurrentDate in dtpEntry is invalid.
+Line 219: The property name MaxDate in dtpEntry is invalid.
+Line 220: The property name MinDate in dtpEntry is invalid.
+Line 228: The property name _ExtentX in cmdFinish is invalid.
+Line 229: The property name _ExtentY in cmdFinish is invalid.
+Line 241: The property name AppearanceThemes in cmdFinish is invalid.
+Line 242: The property name BackColorDown in cmdFinish is invalid.
+Line 243: The property name BackColorOver in cmdFinish is invalid.
+Line 244: The property name BackColorFocus in cmdFinish is invalid.
+Line 245: The property name BackColorDisabled in cmdFinish is invalid.
+Line 246: The property name TransparentColor in cmdFinish is invalid.
+Line 247: The property name Caption in cmdFinish is invalid.
+Line 248: The property name Depth in cmdFinish is invalid.
+Line 249: The property name GradientType in cmdFinish is invalid.
+Line 222: Property Appearance in cmdFinish could not be set.
+Line 257: The property name _ExtentX in cmdCancel is invalid.
+Line 258: The property name _ExtentY in cmdCancel is invalid.
+Line 270: The property name AppearanceThemes in cmdCancel is invalid.
+Line 271: The property name BackColorDown in cmdCancel is invalid.
+Line 272: The property name BackColorOver in cmdCancel is invalid.
+Line 273: The property name BackColorFocus in cmdCancel is invalid.
+Line 274: The property name BackColorDisabled in cmdCancel is invalid.
+Line 275: The property name TransparentColor in cmdCancel is invalid.
+Line 276: The property name Caption in cmdCancel is invalid.
+Line 277: The property name Depth in cmdCancel is invalid.
+Line 278: The property name GradientType in cmdCancel is invalid.
+Line 251: Property Appearance in cmdCancel could not be set.

@@ -1,0 +1,5 @@
+VBGROUP 5.0
+StartupProject=Project1.vbp
+Project=..\CWT_AppLog_DLL_CODE\CWT_AppLog.vbp
+Project=..\CWT_Galileo_DLL_CODE\CWT_APGalileo.vbp
+Project=..\CWT_GalileoPNR_DLL_CODE\CWT_GalileoPNR.vbp

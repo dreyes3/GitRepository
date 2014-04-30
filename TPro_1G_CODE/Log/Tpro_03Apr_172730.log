@@ -1,0 +1,50 @@
+CWT Desktop log | 03-Apr-2013 17:27:30
+D:\Work\Source Code\Development\VB6\CWTDesktop_SmartPoint\UnderDev\FullModule\Doing\Refix_Dev_V2_1_19_CodeStandardization_03Apr2013_CR203\mod_Isidebar\TPro_1G_CODE\Project1 (ver 1.2.19)
+[03-Apr-2013 17:27:33]   gstrAgcyCountryCode =SG
+[03-Apr-2013 17:27:33]   gstrAgcyCurrCode =SGD
+[03-Apr-2013 17:27:33]   gstrAgcyCityCode =SIN
+[03-Apr-2013 17:27:33]   gstrAgcyAirportCode =SIN
+[03-Apr-2013 17:27:33]   gstrAgcyPhone =62202228
+[03-Apr-2013 17:27:33]   gstrPFCode=
+[03-Apr-2013 17:27:33]   gstrPFPCC=781Q
+[03-Apr-2013 17:27:33]   gstrPCC =781Q
+[03-Apr-2013 17:27:33]   gstrHQPCC =781Q
+[03-Apr-2013 17:34:03]   ENTRY><FORMAT><![CDATA[*TD]]></FORMAT>
+[03-Apr-2013 17:34:03]   FOP -VI4444333322221111/D1214
+TKTG-TAW/WE15MAY/1200
+[03-Apr-2013 17:34:03]   >>>END FORMATTED RESPONSE> 
+[03-Apr-2013 17:34:03]   <?xml version="1.0"?>
+<!--This is a host terminal response-->
+<RESPONSE xmlns="x-schema:C:\fp\swdir\Content\emulation-schema.xml">
+  <LINE INDEX="1"><![CDATA[FOP -VI4444333322221111/D1214]]><CARRIAGE_RETURN/></LINE>
+  <LINE INDEX="2"><![CDATA[TKTG-TAW/WE15MAY/1200]]><CARRIAGE_RETURN/></LINE>
+  <LINE INDEX="3"><SOM/></LINE>
+</RESPONSE>
+[03-Apr-2013 17:34:03]   >>>END XML RESPONSE>
+[03-Apr-2013 17:34:03]   ----------------------------------------------------------------
+[03-Apr-2013 17:34:21]   ENTRY><FORMAT><![CDATA[*TD]]></FORMAT>
+[03-Apr-2013 17:34:22]   FOP -VI4444333322221111/D1214
+TKTG-TAW/WE15MAY/1200
+[03-Apr-2013 17:34:22]   >>>END FORMATTED RESPONSE> 
+[03-Apr-2013 17:34:22]   <?xml version="1.0"?>
+<!--This is a host terminal response-->
+<RESPONSE xmlns="x-schema:C:\fp\swdir\Content\emulation-schema.xml">
+  <LINE INDEX="1"><![CDATA[FOP -VI4444333322221111/D1214]]><CARRIAGE_RETURN/></LINE>
+  <LINE INDEX="2"><![CDATA[TKTG-TAW/WE15MAY/1200]]><CARRIAGE_RETURN/></LINE>
+  <LINE INDEX="3"><SOM/></LINE>
+</RESPONSE>
+[03-Apr-2013 17:34:22]   >>>END XML RESPONSE>
+[03-Apr-2013 17:34:22]   ----------------------------------------------------------------
+[03-Apr-2013 17:36:04]   ENTRY><FORMAT><![CDATA[*TD]]></FORMAT>
+[03-Apr-2013 17:36:05]   FOP -VI4444333322221111/D1214
+TKTG-TAW/WE15MAY/1200
+[03-Apr-2013 17:36:05]   >>>END FORMATTED RESPONSE> 
+[03-Apr-2013 17:36:05]   <?xml version="1.0"?>
+<!--This is a host terminal response-->
+<RESPONSE xmlns="x-schema:C:\fp\swdir\Content\emulation-schema.xml">
+  <LINE INDEX="1"><![CDATA[FOP -VI4444333322221111/D1214]]><CARRIAGE_RETURN/></LINE>
+  <LINE INDEX="2"><![CDATA[TKTG-TAW/WE15MAY/1200]]><CARRIAGE_RETURN/></LINE>
+  <LINE INDEX="3"><SOM/></LINE>
+</RESPONSE>
+[03-Apr-2013 17:36:05]   >>>END XML RESPONSE>
+[03-Apr-2013 17:36:05]   ----------------------------------------------------------------

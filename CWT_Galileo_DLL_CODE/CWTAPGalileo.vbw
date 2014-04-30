@@ -1,0 +1,14 @@
+GalileoHost = -474, 202, 323, 558, Z
+AirAvailability = 110, 110, 679, 480, 
+Journey = 132, 132, 701, 502, C
+AvailFlight = 154, 154, 723, 524, 
+AirAvailabilities = 3, 112, 572, 482, 
+FareQuote = 84, 27, 653, 397, 
+FareQuotes = -201, 116, 591, 499, 
+Tax = 22, 22, 591, 392, C
+FareSegment = 44, 44, 613, 414, I
+modMain = -2, 1, 625, 371, 
+Surcharge = 154, 154, 714, 524, C
+FareComponent = 132, 132, 692, 502, C
+FQ = 0, 0, 0, 0, C
+modEnc = 0, 0, 0, 0, C

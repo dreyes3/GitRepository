@@ -1,0 +1,239 @@
+[Root]
+Most Recent Package=CWTDesktop Setup Package 1
+
+
+[Package|CWTDesktop Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\ProjectSourceCode\mod_ISidebar\TPro_1G_CODE\Package
+
+[Package|CWTDesktop Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CWTDesktop Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CWTDesktop Setup Package 1|Files Found]
+
+[Package|CWTDesktop Setup Package 1|Files Released]
+u2dapp.dll=
+u2dpost.dll=
+u2fxml.dll=
+u2fsepv.dll=
+u2fcr.dll=
+
+[Package|CWTDesktop Setup Package 1|Missing Dependency Information]
+C:\Documents and Settings\ujxl299\Desktop\ISideBar_VB_IN_FP\ISideBar_VB_IN_FP\ARGradient.ocx=
+C:\WINDOWS\system32\FM20.DLL=
+D:\test\deploy\cwtdesktop_210708\CWT_GalileoPNR3.dll=
+D:\test\deploy\cwtdesktop_210708\CWT_Galileo3.dll=
+D:\test\deploy\cwtdesktop_210708\CWT_AppLog.dll=
+C:\WINDOWS\system32\msxml3.dll=
+C:\Dialect\PaymentClientCOM\PCCOM.dll=
+C:\fp\swdir\ViewpointListener.exe=
+C:\fp\swdir\Viewpoint.tlb=
+C:\WINDOWS\system32\dx8vb.dll=
+C:\fp\swdir\HostAccess.dll=
+C:\WINDOWS\system32\wininet.dll=
+
+[Package|CWTDesktop Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MyCommandButton.ocx=
+C:\WINDOWS\system32\MyFramePanel.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|CWTDesktop Setup Package 1|Files Added]
+
+[Package|CWTDesktop Setup Package 1|Files Removed]
+
+[Package|CWTDesktop Setup Package 1|Files In Project]
+D:\test\deploy\cwtdesktop_210708\CWT Desktop.exe=Yes
+C:\WINDOWS\system32\Msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\fp\swdir\HostAccess.dll=Yes
+C:\WINDOWS\system32\dx8vb.dll=Yes
+C:\fp\swdir\Viewpoint.tlb=Yes
+C:\fp\swdir\ViewpointListener.exe=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\Dialect\PaymentClientCOM\PCCOM.dll=Yes
+C:\WINDOWS\system32\msxml3.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\crystalreportviewers10\ActiveXControls\crviewer.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\craxdrt.dll=Yes
+C:\WINDOWS\system32\Unicows.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crtowords_en.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\ufmanager.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2l2000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lcom.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ldts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lexch.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lfinra.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u252000.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u25dts.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u25samp1.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\sscsdk80.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\Implode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crqe.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_ado.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_dao.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_odbc.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\querybuilder.dll=Yes
+C:\WINDOWS\system32\exlate32.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_rtf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\ExportModeller.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crtslv.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_wordw.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_xls.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_pdf.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ftext.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ddisk.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\keycode.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdeploy.reg=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+D:\test\deploy\cwtdesktop_210708\CWT_AppLog.dll=Yes
+D:\test\deploy\cwtdesktop_210708\CWT_Galileo3.dll=Yes
+D:\test\deploy\cwtdesktop_210708\CWT_GalileoPNR3.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MyFramePanel.ocx=Yes
+C:\WINDOWS\system32\MyCommandButton.ocx=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\SftTabs_IX86_U_50.ocx=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\Program Files\vbSkinner Pro 2\vbskpro2.ocx=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Documents and Settings\ujxl299\Desktop\ISideBar_VB_IN_FP\ISideBar_VB_IN_FP\ARGradient.ocx=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|CWTDesktop Setup Package 1|Configure Registry Files]
+Applicable=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdeploy.reg=Register
+
+[Package|CWTDesktop Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|CWTDesktop Setup Package 1|Install Locations]
+D:\test\deploy\cwtdesktop_210708\CWT Desktop.exe=$(AppPath)
+C:\WINDOWS\system32\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\fp\swdir\HostAccess.dll=$(AppPath)
+C:\WINDOWS\system32\dx8vb.dll=$(WinSysPath)
+C:\fp\swdir\Viewpoint.tlb=$(WinSysPath)
+C:\fp\swdir\ViewpointListener.exe=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Dialect\PaymentClientCOM\PCCOM.dll=$(WinSysPath)
+C:\WINDOWS\system32\msxml3.dll=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\2.5\crystalreportviewers10\ActiveXControls\crviewer.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\craxdrt.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\WINDOWS\system32\Unicows.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\WINDOWS\system32\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\test\deploy\cwtdesktop_210708\CWT_AppLog.dll=$(WinSysPath)
+D:\test\deploy\cwtdesktop_210708\CWT_Galileo3.dll=$(WinSysPath)
+D:\test\deploy\cwtdesktop_210708\CWT_GalileoPNR3.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MyFramePanel.ocx=$(AppPath)
+C:\WINDOWS\system32\MyCommandButton.ocx=$(AppPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SftTabs_IX86_U_50.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\vbSkinner Pro 2\vbskpro2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\ujxl299\Desktop\ISideBar_VB_IN_FP\ISideBar_VB_IN_FP\ARGradient.ocx=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|CWTDesktop Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\test\deploy\cwtdesktop_210708\CWT Desktop.exe=No
+C:\fp\swdir\HostAccess.dll=No
+C:\WINDOWS\system32\MyFramePanel.ocx=No
+C:\WINDOWS\system32\MyCommandButton.ocx=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|CWTDesktop Setup Package 1|Distribution]
+Type=single
+Size=
+Title=CWT Desktop
+
+[Package|CWTDesktop Setup Package 1|IconGroups]
+Group0=CWT Desktop
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|CWTDesktop Setup Package 1|CWT Desktop]
+Icon1="CWT Desktop.exe"
+Title1=CWT Desktop
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|CWTDesktop Setup Package 1|Package]
+PackageFolder=D:\ProjectSourceCode\mod_ISidebar\TPro_1G_CODE\Package
+ProjectFolder=D:\ProjectSourceCode\mod_ISidebar\TPro_1G_CODE
+ServerSideCab=
+File1=D:\ProjectSourceCode\mod_ISidebar\TPro_1G_CODE\Package\setup.exe
+File2=D:\ProjectSourceCode\mod_ISidebar\TPro_1G_CODE\Package\Setup.Lst
+File3=D:\ProjectSourceCode\mod_ISidebar\TPro_1G_CODE\Package\CWT Desktop.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
