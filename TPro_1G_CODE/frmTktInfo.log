@@ -1,0 +1,6 @@
+Line 342: Class MSComctlLib.TreeView of control tvStoredFare was not a loaded control class.
+Line 716: Class MSComctlLib.ListView of control lvwDue was not a loaded control class.
+Line 760: Class MSComctlLib.ListView of control lvwPaid was not a loaded control class.
+Line 804: Class MSComctlLib.ListView of control lvwGASalesRec was not a loaded control class.
+Line 860: Class MSComctlLib.ListView of control lvwFiledFares was not a loaded control class.
+Line 1123: Class MSComctlLib.ListView of control lsvCPG was not a loaded control class.
