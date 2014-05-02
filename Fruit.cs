@@ -13,7 +13,7 @@ namespace Fruit
         protected string Taste { get; set; }
         protected string Weight { get; set; }
 
-        public string Heights {get; set;}
+        public string Height {get; set;}
 
 
         public Fruit
